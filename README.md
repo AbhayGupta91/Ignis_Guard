@@ -12,6 +12,7 @@
 | SIM900 GSM Module| For sending SMS & making calls      |
 | Flame Sensor     | Detects fire/flame                  |
 | Buzzer           | Gives sound alert                   |
+| GPS              | Real time location                  |
 | LED              | Visual alert                        |
 | Jumper Wires     | For circuit connections             |
 | Breadboard       | For prototyping                     |
