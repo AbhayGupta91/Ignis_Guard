@@ -34,7 +34,7 @@
 
 >  **[Upload your circuit image here and update the link]**
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Working Prototype](images/project_real_photo.jpg)
 
 ---
 
@@ -42,7 +42,7 @@
 
 > Add photos in the `images/` folder.
 
-![Working Prototype](images/project_real_photo.jpg)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 ---
 
