@@ -28,11 +28,13 @@ Ignis Guard is a smart fire detection project built using Arduino Uno and SIM900
 ---
 
 ## Circuit Diagram
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 
 ---
 
 ##  Real Images of the Project
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 
 ---
