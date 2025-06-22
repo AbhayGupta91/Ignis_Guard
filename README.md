@@ -1,6 +1,6 @@
 # Ignis Guard – Smart Fire Detection and Alert System
 
-**Ignis Guard** is a smart fire detection project built using Arduino Uno and SIM900 GSM Module. It detects fire using a flame sensor and immediately sends **SMS alerts** and **makes calls** to pre-saved mobile numbers. The system also activates an LED and buzzer alarm for immediate surroundings.
+**Ignis Guard** is a smart fire detection project built using Arduino Uno and SIM900 GSM Module. It detects fire using a flame sensor and immediately sends **SMS alerts**, **Location ** and **makes calls** to pre-saved mobile numbers. The system also activates an LED and buzzer alarm for immediate surroundings.
 
 ---
 
