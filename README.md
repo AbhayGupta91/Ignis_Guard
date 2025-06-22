@@ -53,5 +53,5 @@ Ignis_Guard/
 ├── ignis_guard.ino
 ├── README.md
 └── images/
-    ├── circuit_diagram.jpg
-    └── project_real_photo.jpg
+    ├── project_real_photo.jpg
+    └── circuit_diagram.jpg 
